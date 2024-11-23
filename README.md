@@ -6,7 +6,7 @@ A simple News application built with Flutter. The news data fetch using a Free R
 
 Clone this repository using following command.
 
-`https://github.com/kajalpandey0104/News-App-Flutter`
+`git clone https://github.com/kajalpandey0104/News-App-Flutter.git`
 
 Then navigate to the project & install the libraries using following command.
 
